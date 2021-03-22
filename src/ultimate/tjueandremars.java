@@ -7,7 +7,7 @@ public class tjueandremars {
 		System.out.println("Boss 2");
 		System.out.println("Boss 2");
 		System.out.println("Boss 2");
-
+		System.out.println("Boss 2");
 	}
 
 }
